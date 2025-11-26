@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Spain",La 1 (720p)
+#EXTINF:-1 tvg-id="La1.es" tvg-logo="https://i.imgur.com/1jDS9UC.png" group-title="Spain",La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="la2.es" tvg-country="ES" tvg-language="Spain" group-title="Spain",La 2
 http://185.189.225.150:85/TV2/index.m3u8
